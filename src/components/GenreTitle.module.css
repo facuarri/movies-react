@@ -1,0 +1,15 @@
+.title{
+    color: #e60073;;
+    display: inline-block;
+    margin-left: 10%;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.hrBar{
+    border-top: 2px solid #e60073;;
+    width: 80%;
+    margin: 0 auto 30px;
+    box-shadow: 0 0 10px #fff;
+}
